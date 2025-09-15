@@ -99,7 +99,7 @@ The script includes an example of how to use the recommendation function. For in
 
 ## 🛠️ Technologies Used
 
-  * **Python**
-  * **Pandas:** For data manipulation and analysis.
-  * **Matplotlib & Seaborn:** For data visualization.
-  * **Scikit-learn:** For implementing the TF-IDF and Cosine Similarity models.
+  * Python
+  * Pandas: For data manipulation and analysis.
+  * Matplotlib & Seaborn: For data visualization.
+  * Scikit-learn: For implementing the TF-IDF and Cosine Similarity models.
